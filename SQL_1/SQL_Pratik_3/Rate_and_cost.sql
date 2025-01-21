@@ -1,0 +1,1 @@
+Select * From film Where rental_rate = 0.99 And replacement_cost = 12.99 Or replacement_cost = 28.99;
