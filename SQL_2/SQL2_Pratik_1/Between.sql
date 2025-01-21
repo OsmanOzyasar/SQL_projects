@@ -1,0 +1,1 @@
+Select * From film Where replacement_cost  Between 12.99 And 16.99;
