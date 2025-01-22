@@ -1,0 +1,1 @@
+Select title From film Where title Ilike '%t%t%t%t%';

@@ -1,0 +1,1 @@
+Select * From film Where title Like 'T%' And length > 90 And rental_rate = 2.99; 

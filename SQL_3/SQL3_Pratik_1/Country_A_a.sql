@@ -1,0 +1,1 @@
+Select country From country where country Like  'A%a';

@@ -1,0 +1,1 @@
+Select country From country Where Length(country) >= 6 And country Like '%n';
